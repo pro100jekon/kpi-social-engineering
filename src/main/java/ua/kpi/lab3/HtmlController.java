@@ -15,5 +15,8 @@ public class HtmlController {
         return "index";
     }
 
-
+    @GetMapping("/secure")
+    public String secure() {
+        return "secure";
+    }
 }
