@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /secure
 Allow: /
+Sitemap: https://yevhenii-test.ddns.net/sitemap.xml

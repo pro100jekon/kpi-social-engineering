@@ -1,5 +1,8 @@
 HELP.md
 target/
+**/src/main/resources/static/google*.html
+**/src/main/resources/*.p12
+**/*.pem
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
